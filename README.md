@@ -1,0 +1,104 @@
+# VIVIZ – BOP BOP!
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Mm-mm-mm-mm
+Mm-mm-mm
+Mm-mm-mm-mm-mm-mm
+Mm-mm-mm
+Mm-mm-mm
+Don't you feel this?
+리듬에 맡겨 (Mm-mm-mm)
+네 시선이 멈춘 dance
+오묘해진 빛에 더 끌려 (Mm-mm-mm)
+Baby 멈추지 않을래
+내 맘을 거칠게 뒤흔든 music
+Let go, let's go
+그 위를 아슬히 move it
+Check this choreo
+이 기분을 따라
+Bop, bop, just feel the music
+Bop, bop, that's right
+(Bop, bop)
+빠르게 뛰는 my heart
+이 리듬을 타봐
+Bop, bop, just feel the music
+Bop, bop, tonight (Bop, bop)
+너만이 빛나, so shine
+Alright,
+터질듯한 내 심장에 이 순간
+까만 눈동자로 주고받는 feeling
+너와 부딪치는
+감정 속에 feel so high
+더욱 바삐 we bop it, my baby
+Yah, yah, yah, uh (Mm-mm-mm-mm)
+내 옆에 네가 다가올 때
+빨라지는 groove (Yeah, yeah)
+Yeah, 눈앞마저 핑 돌고
+짙어져 가는 mood
+더 더 높이 올려 텐션,
+놀자 이 밤이 새도록 (Oh, no)
+Ooh, just wanna keep dancing
+(Oh, ooh)
+이 밤을 깊숙이 뒤흔든 music
+Let go (Yeah), let's go (Yeah)
+그 속을 아찔히 move it
+몸을 맡기고
+이 기분을 따라
+Bop, bop, just feel the music
+Bop, bop, that's right
+(Bop, bop)
+빠르게 뛰는 my heart
+이 리듬을 타봐
+Bop, bop, just feel the music
+Bop, bop, tonight (Bop, bop)
+너만이 빛나, so shine
+Alright,
+터질듯한 내 심장에 이 순간
+까만 눈동자로 주고받는 feeling
+너와 부딪치는
+감정 속에 feel so high
+더욱 바삐 we bop it, my baby
+Bo-bo-bo-bo-bo-bo-bop
+(Hey!)
+Bo-bo-bo-bo-bo-bo-bop
+(Hey!)
+Ooh, tonight
+We bop it, we bop it
+Bo-bo-bo-bo-bo-bo-bop
+(Hey!)
+Bo-bo-bo-bo-bo-bo-bo-bo-bop
+(Hey!)
+Ooh, tonight
+We bop it, we bop it, yeah
+Oh, oh-oh, oh-oh
+잠시 템포를 늦춰도
+멈추진 말아줘
+Ah, ah-ah, ah-ah
+밤새 play music on (Oh)
+이 기분을 따라
+Bop, bop, just feel the music
+Bop, bop, that's right
+(Bop, bop)
+빠르게 뛰는 my heart
+이 리듬을 타봐
+Bop, bop, just feel the music
+Bop, bop, tonight (Bop, bop)
+너만이 빛나, so shine
+Oh, alright,
+터질듯한 내 심장에 이 순간
+까만 눈동자로 주고받는 feeling
+너와 부딪치는
+감정 속에 feel so high (Ah)
+더욱 바삐 we bop it, my baby
+Bop, bop, bop it up (Ah; Yeah)
+Bop, bop, bop it up (Yeah)
+I just wanna bop,
+bop, bop, bop (Bop, bop)
+Bop, bop, bop it up
+(Yeah; Yеah)
+Bop, bop, bop it up
+(Yeah; Yeah)
+I just wanna bop, bop, bop, bop
+```
