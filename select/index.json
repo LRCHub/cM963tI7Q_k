@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "BOP BOP!",
+  "base_artist": "VIVIZ",
+  "createdAt": "2025-12-28T04:36:54.158147Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BOP BOP!",
+      "artist": "VIVIZ",
+      "has_synced": true,
+      "path": "select/01_BOP_BOP!_VIVIZ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "(Bop Bop) On The Beach",
+      "artist": "The Flirts feat. Jan & Dean",
+      "has_synced": false,
+      "path": "select/02_(Bop_Bop)_On_The_Beach_The_Flirts_feat._Jan_&_Dean.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bop Bop Baby",
+      "artist": "Westlife",
+      "has_synced": true,
+      "path": "select/03_Bop_Bop_Baby_Westlife.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bop Bop Baby",
+      "artist": "Westlife",
+      "has_synced": true,
+      "path": "select/04_Bop_Bop_Baby_Westlife.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bop Bop Baby - Single Remix",
+      "artist": "Westlife",
+      "has_synced": true,
+      "path": "select/05_Bop_Bop_Baby_-_Single_Remix_Westlife.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bop Bop Baby (Single Remix)",
+      "artist": "Westlife",
+      "has_synced": true,
+      "path": "select/06_Bop_Bop_Baby_(Single_Remix)_Westlife.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bop Bop Baby [Single Remix]",
+      "artist": "Westlife",
+      "has_synced": false,
+      "path": "select/07_Bop_Bop_Baby_[Single_Remix]_Westlife.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bop Bop (Radio Edit)",
+      "artist": "Inna",
+      "has_synced": true,
+      "path": "select/08_Bop_Bop_(Radio_Edit)_Inna.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bop Bop",
+      "artist": "INNA",
+      "has_synced": true,
+      "path": "select/09_Bop_Bop_INNA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bop Bop Baby",
+      "artist": "Westlife",
+      "has_synced": true,
+      "path": "select/10_Bop_Bop_Baby_Westlife.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hundiddy Bop Bop",
+      "artist": "Drakeo the Ruler",
+      "has_synced": true,
+      "path": "select/11_Hundiddy_Bop_Bop_Drakeo_the_Ruler.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bop Bop Baby",
+      "artist": "Westlife",
+      "has_synced": false,
+      "path": "select/12_Bop_Bop_Baby_Westlife.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bop, Bop, Bop",
+      "artist": "V.I.C.",
+      "has_synced": false,
+      "path": "select/13_Bop,_Bop,_Bop_V.I.C..txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bop Bop Baby",
+      "artist": "Westlife",
+      "has_synced": true,
+      "path": "select/14_Bop_Bop_Baby_Westlife.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "BOP BOP! - Highteen Version",
+      "artist": "VIVIZ",
+      "has_synced": true,
+      "path": "select/15_BOP_BOP!_-_Highteen_Version_VIVIZ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BOP BOP!",
+      "artist": "VIVIZ",
+      "has_synced": false,
+      "path": "select/pl_01_BOP_BOP!_VIVIZ.txt"
+    }
+  ]
+}
